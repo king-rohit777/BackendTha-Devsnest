@@ -72,7 +72,7 @@ Array ⇒ {key : "[1,2,3,4]" }
 ## Create a new User for Database and grant all privilegs
 
 1. CREATE DATABASE <database_name>
-2. GRANT ALL PRIVILAGES ON DATABASE <database_name> to <user_name>
+2. GRANT ALL PRIVILEGES ON DATABASE <database_name> to <user_name>
 
 ## Basic Commands
 
