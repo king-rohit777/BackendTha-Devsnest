@@ -53,7 +53,7 @@ Array ⇒ {key : "[1,2,3,4]" }
 1. HSET → HSET <key> <field i.e. attribute name eg roll , name etc. > <value>
 2. HGET → HGET <key> <field>
 3. HGETALL → HGET <key>
-4. HDEL → HDEL <key> <filed>
+4. HDEL → HDEL <key> <field>
 5. HEXISTS → HEXISTS <key> <field> → returns 0 or 1
 
 ## PostgreSQL Commands
@@ -71,8 +71,8 @@ Array ⇒ {key : "[1,2,3,4]" }
 
 ## Create a new User for Database and grant all privilegs
 
-1. CREATE DATABASE <database name>
-2. GRANT ALL PRIVILAGES ON DATABASE <database name> to <user_name>
+1. CREATE DATABASE <database_name>
+2. GRANT ALL PRIVILAGES ON DATABASE <database_name> to <user_name>
 
 ## Basic Commands
 
