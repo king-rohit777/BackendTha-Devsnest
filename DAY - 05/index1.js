@@ -20,4 +20,4 @@ fs.renameSync("day5/hello.txt", "day5/day5.txt");
 fs.unlinkSync("day5/day5.txt");
 
 //remove folder
-fs.rmdir(day5);
+fs.rmdirSync('day5');
